@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "63f49d1eece573c0d7254f37"
+  },
+  "name": "Colgate",
+  "age": 1900
+},{
+  "_id": {
+    "$oid": "63f49d49ece573c0d7254f38"
+  },
+  "name": "Aquafresh",
+  "age": 1950
+},{
+  "_id": {
+    "$oid": "63f49d66ece573c0d7254f39"
+  },
+  "name": "Preside",
+  "age": 20
+},{
+  "_id": {
+    "$oid": "63f49d7dece573c0d7254f3a"
+  },
+  "name": "SPLAT",
+  "age": 2000
+}]

@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "63f4a016ece573c0d7254f3b"
+  },
+  "name": "am",
+  "mainItem": "Radiance"
+},{
+  "_id": {
+    "$oid": "63f4a02fece573c0d7254f3c"
+  },
+  "name": "pa",
+  "mainItem": "desolator"
+},{
+  "_id": {
+    "$oid": "63f4a045ece573c0d7254f3d"
+  },
+  "name": "pl",
+  "mainItem": "Radiance"
+}]
